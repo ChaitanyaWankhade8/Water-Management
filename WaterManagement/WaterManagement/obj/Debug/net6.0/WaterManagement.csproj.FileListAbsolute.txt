@@ -1,0 +1,15 @@
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\bin\Debug\net6.0\WaterManagement.exe
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\bin\Debug\net6.0\WaterManagement.deps.json
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\bin\Debug\net6.0\WaterManagement.runtimeconfig.json
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\bin\Debug\net6.0\WaterManagement.dll
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\bin\Debug\net6.0\WaterManagement.pdb
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\obj\Debug\net6.0\WaterManagement.csproj.AssemblyReference.cache
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\obj\Debug\net6.0\WaterManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\obj\Debug\net6.0\WaterManagement.AssemblyInfoInputs.cache
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\obj\Debug\net6.0\WaterManagement.AssemblyInfo.cs
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\obj\Debug\net6.0\WaterManagement.csproj.CoreCompileInputs.cache
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\obj\Debug\net6.0\WaterManagement.dll
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\obj\Debug\net6.0\refint\WaterManagement.dll
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\obj\Debug\net6.0\WaterManagement.pdb
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\obj\Debug\net6.0\WaterManagement.genruntimeconfig.cache
+C:\Users\cw69423\source\repos\WaterManagement\WaterManagement\obj\Debug\net6.0\ref\WaterManagement.dll
